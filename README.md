@@ -1,4 +1,4 @@
-# Projeto Anna Bella :woman:
+# Projeto Anna Bella :womans_hat:
 
 #### Projeto criado no curso Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos, da plataforma Udemy.
 
